@@ -1,0 +1,49 @@
+#number-guess, #result, #history {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+#history {
+    margin-top: 16px;
+}
+  
+.banner {
+    color: royalblue;
+    font-size: 50px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    font: bold;
+}
+
+main {
+    color: royalblue;
+    font-size: 24px;
+    font-family: fantasy;
+    font: bold;
+}
+
+.navbar-brand {
+  margin: auto;
+}
+
+html, main {
+  background: url(cat.png) no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+}
+
+.alert-warning {
+    color: #150116;
+    background-color: #69056d;
+    border-color: #1d05f5;
+}
+
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: .75rem 1.25rem;
+    margin-bottom: -1px;
+    background-color: rgb(138, 7, 7);
+    border: 1px solid rgba(0,0,0,.125);
+}
+
